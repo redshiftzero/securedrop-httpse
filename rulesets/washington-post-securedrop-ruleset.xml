@@ -1,0 +1,5 @@
+<ruleset name="The Washington Post">
+	<target host="www.washingtonpost.com.securedrop.tor.onion" />
+	<rule from="^http[s]?://www.washingtonpost.com.securedrop.tor.onion"
+        to="http://jcw5q6uyjioupxcc.onion" />
+</ruleset>
