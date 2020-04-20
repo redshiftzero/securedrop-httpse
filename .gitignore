@@ -1,6 +1,5 @@
-# Don't commit private keys
-key.pem
-private.pem
+# Don't commit keys
+*.pem
 
 # Don't commit test keys
 test-key.jwk
